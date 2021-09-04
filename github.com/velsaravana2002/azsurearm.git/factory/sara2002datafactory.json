@@ -1,0 +1,9 @@
+{
+	"name": "sara2002datafactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20e9d8b2-ed39-4e01-90ee-f19cc22a090b",
+		"tenantId": "a5f428eb-1700-49e4-80b8-45433605d6e8"
+	}
+}
