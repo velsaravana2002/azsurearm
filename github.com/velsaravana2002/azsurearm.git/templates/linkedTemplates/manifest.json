@@ -1,9 +1,0 @@
-{
-	"name": "linkedTemplates",
-	"description": "ttt",
-	"annotations": [],
-	"services": [
-		"Azure Blob Storage"
-	],
-	"categories": []
-}
